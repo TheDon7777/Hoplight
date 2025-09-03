@@ -52,11 +52,9 @@ It integrates traditional SIEM functions with AI-driven correlation, investigati
 ---
 
 ## 📸 Screenshots
----
-<p align="center">
+- **Enterprise Threat Monitoring:** Escalations, IOC patterns, Threat Actor Behavioral Patterns
   <img src="Threat Monitoring Tab.png" width="900" alt="Threat Monitoring – real-time clustering and IOC overview">
-</p>
----
+  
 - **Enterprise Threat Intelligence:** IOC matches, campaign activity, actor profiles  
   <img src="Threat Intelligence Tab.png" width="900" alt="Threat Intelligence Center">
 
