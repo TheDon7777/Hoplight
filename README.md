@@ -4,6 +4,10 @@ AI-assisted Security Operations Platform prototype with real-time SOC, analytics
 **Hoplight** is a prototype security operations platform I designed and built to explore how **AI-powered analytics** can enhance SOC workflows.  
 It integrates traditional SIEM functions with AI-driven correlation, investigation, and reporting — all with **privacy-by-design controls** like PII redaction before AI processing.  
 
+[![License: CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
+![Status: Prototype](https://img.shields.io/badge/status-prototype-blue)
+![Stack: Node.js • MongoDB • Wazuh](https://img.shields.io/badge/stack-Node.js%20•%20MongoDB%20•%20Wazuh-informational)
+
 ---
 
 ## Key Features
@@ -47,11 +51,23 @@ It integrates traditional SIEM functions with AI-driven correlation, investigati
 
 ---
 
-## Screenshots 
-- Real-Time SOC Dashboard  
-- Threat Investigation (MITRE ATT&CK chain)  
-- AI-Powered Incident Analysis  
-- Compliance & Executive Reporting  
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Threat Monitoring Tab.png" width="900" alt="Threat Monitoring – real-time clustering and IOC overview">
+</p>
+
+- **Enterprise Threat Intelligence:** IOC matches, campaign activity, actor profiles  
+  <img src="Threat Intelligence Tab.png" width="900" alt="Threat Intelligence Center">
+
+- **Attack Chain Reconstruction:** MITRE ATT&CK mapping, kill-chain analysis, narrative generation  
+  <img src="Attack Chain Reconstruction Tab.png" width="900" alt="Attack Chain Reconstruction">
+
+- **Dynamic Correlation Engine:** accuracy/threshold metrics and analysis actions  
+  <img src="Dynamic Correlation Tab.png" width="900" alt="Dynamic Correlation Engine">
+
+- **Baseline Management:** per-group baselines, deviations, accuracy  
+  <img src="Baseline Management Tab.png" width="900" alt="Baseline Management">
 
 ---
 
